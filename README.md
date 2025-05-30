@@ -214,7 +214,7 @@ For XaloraMesh agents or to learn about contributing specialized community agent
 
 ## Support
 
-For support, please open an issue in the GitHub repository or contact the maintainers. Join the XaloraEcosystem Builder telegram https://t.me/heuristsupport
+For support, please open an issue in the GitHub repository or contact the maintainers. Join the XaloraEcosystem
 
 ## Star History
 
