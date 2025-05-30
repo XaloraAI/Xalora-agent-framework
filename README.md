@@ -1,7 +1,3 @@
-<div align="center">
-    <img src="./docs/img/agent-framework-poster.jpg" alt="XaloraAgent Framework Banner" width="100%" />
-</div>
-
 # XaloraAgent Framework
 
 A flexible multi-interface AI agent framework that can interact through various platforms including Telegram, Discord, Twitter, Farcaster, REST API, and MCP.
