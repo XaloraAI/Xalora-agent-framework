@@ -45,8 +45,6 @@ Want to contribute your own agent? Check out the [Mesh README](./mesh/README.md)
 
 **Just In:** All XaloraMesh agents are accessible via MCP! This means you can access them from your favorite MCP client, including [Claude Desktop](https://claude.ai/download), [Cursor](https://www.cursor.com/), and [Windsurf](https://codeium.com/windsurf).
 
-Head to [heurist-mesh-mcp-server](https://github.com/heurist-network/heurist-mesh-mcp-server) to set up a server and give your AI assistant a powerup.
-
 ### Recommended Mesh Agents
 
 • [BitquerySolanaTokenInfoAgent](./mesh/agents/bitquery_solana_token_info_agent.py) - Provides comprehensive analysis of Solana tokens including metrics, holders, trading activity, and trending token discovery
