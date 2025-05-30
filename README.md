@@ -1,18 +1,18 @@
 <div align="center">
-    <img src="./docs/img/agent-framework-poster.jpg" alt="Heurist Agent Framework Banner" width="100%" />
+    <img src="./docs/img/agent-framework-poster.jpg" alt="XaloraAgent Framework Banner" width="100%" />
 </div>
 
-# Heurist Agent Framework
+# XaloraAgent Framework
 
 A flexible multi-interface AI agent framework that can interact through various platforms including Telegram, Discord, Twitter, Farcaster, REST API, and MCP.
 
-Grab a Heurist API Key instantly for free by using the code 'agent' while submitting the form on https://heurist.ai/dev-access
+Grab a XaloraAPI Key instantly for free by using the code 'agent' while submitting the form on https://heurist.ai/dev-access
 
 ---
 
 ## Overview
 
-The Heurist Agent Framework is built on a modular architecture that allows an AI agent to:
+The XaloraAgent Framework is built on a modular architecture that allows an AI agent to:
 
 - Process text and voice messages
 - Generate images and videos
@@ -23,15 +23,15 @@ The Heurist Agent Framework is built on a modular architecture that allows an AI
 ## Table of Contents
 
 - [Features](#features)
-- [Heurist Mesh](#heurist-mesh)
+- [XaloraMesh](#heurist-mesh)
   - [MCP Support](#mcp-support)
   - [Recommended Mesh Agents](#recommended-mesh-agents)
   - [Full List of Mesh Agents](#full-list-of-mesh-agents)
   - [Usage and Development Guide](#usage-and-development-guide)
-- [Heurist Agent Framework Architecture](#heurist-agent-framework-architecture)
+- [XaloraAgent Framework Architecture](#heurist-agent-framework-architecture)
   - [Agent Structure](#agent-structure)
   - [Agent Interfaces](#agent-interfaces)
-  - [Heurist Core](#heurist-core)
+  - [XaloraCore](#heurist-core)
     - [Components](#components)
     - [Workflows](#workflows)
     - [Tool Management](#tool-management)
@@ -62,17 +62,17 @@ The Heurist Agent Framework is built on a modular architecture that allows an AI
   - REST API
   - MCP integration
 
-## Heurist Mesh
+## XaloraMesh
 
 ![mesh](https://github.com/user-attachments/assets/77a2ab3b-e35c-4313-8a5b-a0e751cac879)
 
-**Heurist Mesh** is an open network where AI agents are contributed by the community and used modularly—similar to DeFi smart contracts. Each agent is a specialized unit that can process data, generate reports, or perform actions while collectively forming an intelligent swarm to tackle complex tasks. Each agent is accessible via a unified REST API interface, and can be used in conjunction with any agent framework or application.
+**XaloraMesh** is an open network where AI agents are contributed by the community and used modularly—similar to DeFi smart contracts. Each agent is a specialized unit that can process data, generate reports, or perform actions while collectively forming an intelligent swarm to tackle complex tasks. Each agent is accessible via a unified REST API interface, and can be used in conjunction with any agent framework or application.
 
 Want to contribute your own agent? Check out the [Mesh README](./mesh/README.md) for detailed guidelines, examples, and best practices.
 
 ### MCP Support
 
-**Just In:** All Heurist Mesh agents are accessible via MCP! This means you can access them from your favorite MCP client, including [Claude Desktop](https://claude.ai/download), [Cursor](https://www.cursor.com/), and [Windsurf](https://codeium.com/windsurf).
+**Just In:** All XaloraMesh agents are accessible via MCP! This means you can access them from your favorite MCP client, including [Claude Desktop](https://claude.ai/download), [Cursor](https://www.cursor.com/), and [Windsurf](https://codeium.com/windsurf).
 
 Head to [heurist-mesh-mcp-server](https://github.com/heurist-network/heurist-mesh-mcp-server) to set up a server and give your AI assistant a powerup.
 
@@ -104,12 +104,12 @@ Head to [heurist-mesh-mcp-server](https://github.com/heurist-network/heurist-mes
 
 [Read the Mesh documentation](./mesh/README.md)
 
-## Heurist Agent Framework Architecture
+## XaloraAgent Framework Architecture
 
 The framework follows a modular, component-based architecture:
 
 <div align="center">
-<img src="./docs/img/agent_hl.png" alt="Heurist Agent Framework" width="75%">
+<img src="./docs/img/agent_hl.png" alt="XaloraAgent Framework" width="75%">
 </div>
 
 ### Agent Structure
@@ -135,11 +135,11 @@ Each interface inherits from BaseAgent and implements platform-specific handling
 - **Twitter** (`interfaces/twitter_agent.py`)
 - **Farcaster** (`interfaces/farcaster_agent.py`)
 
-### Heurist Core
+### XaloraCore
 
-Heurist Core provides a set of core components, tools, and workflows for building LLM-powered agents or agentic applications. It can be used as a standalone package or as part of the Heurist Agent Framework.
+XaloraCore provides a set of core components, tools, and workflows for building LLM-powered agents or agentic applications. It can be used as a standalone package or as part of the XaloraAgent Framework.
 
-[Read the Heurist Core documentation](./core/README.md)
+[Read the XaloraCore documentation](./core/README.md)
 
 #### Components
 
@@ -216,7 +216,7 @@ We encourage the community to open **GitHub issues** whenever you have a new ide
 
 4. **Bounty**
    - For tasks with a **reward** (e.g., tokens, NFTs, or other benefits).
-   - The bounty label indicates that Heurist team or another community member are offering a reward to whoever resolves the issue.
+   - The bounty label indicates that Xalorateam or another community member are offering a reward to whoever resolves the issue.
    - **Bounty Rules**:
      - Make sure to read the issue description carefully for scope and acceptance criteria.
      - Once your Pull Request addressing the bounty is merged, we'll follow up on fulfilling the reward.
@@ -241,11 +241,11 @@ MIT License - See LICENSE file for details.
 4. Push to the branch
 5. Create a Pull Request
 
-For Heurist Mesh agents or to learn about contributing specialized community agents, please refer to the [Mesh README](./mesh/README.md)
+For XaloraMesh agents or to learn about contributing specialized community agents, please refer to the [Mesh README](./mesh/README.md)
 
 ## Support
 
-For support, please open an issue in the GitHub repository or contact the maintainers. Join the Heurist Ecosystem Builder telegram https://t.me/heuristsupport
+For support, please open an issue in the GitHub repository or contact the maintainers. Join the XaloraEcosystem Builder telegram https://t.me/heuristsupport
 
 ## Star History
 
