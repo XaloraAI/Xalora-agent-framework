@@ -2,7 +2,7 @@
 
 A flexible multi-interface AI agent framework that can interact through various platforms including Telegram, Discord, Twitter, Farcaster, REST API, and MCP.
 
-Grab a XaloraAPI Key instantly for free by using the code 'agent' while submitting the form on https://heurist.ai/dev-access
+Grab a XaloraAPI Key instantly for free by using the code 'agent'
 
 ---
 
