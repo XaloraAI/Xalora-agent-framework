@@ -1,0 +1,586 @@
+input_query:
+  query: What has Donald Trump posted recently on Truth Social?
+output_query:
+  response: "**Recent Posts from @realDonaldTrump on Truth Social**\n\n**Post Count:**\
+    \ 20\n**Timeframe:** May 5-6, 2025\n\n**Post Summaries (latest first):**\n\n1.\
+    \ **Alcatraz Reopening** (May 6, 2025, 00:51:38)\n\t* Quotes Stephen Miller on\
+    \ the need for a place to \"visually demonstrate total separation from society\"\
+    \ for certain individuals.\n2. **Retweet** (May 6, 2025, 00:46:29)\n\t* Retweet\
+    \ of an earlier post (ID: 114457309826756716), content not specified.\n3. **Retweet\
+    \ (Duplicate)** (May 6, 2025, 00:43:34)\n\t* Duplicate retweet of the same earlier\
+    \ post (ID: 114457309826756716).\n4. **Quote: Secretary Robert F. Kennedy Jr.**\
+    \ (May 6, 2025, 00:40:13)\n\t* On streamlining an agency, cutting waste, and not\
+    \ eliminating critical research or healthcare programs.\n5. **Executive Order:\
+    \ Gain-of-Function Research** (May 6, 2025, 00:38:44)\n\t* Announcement of an\
+    \ Executive Order protecting Americans from dangerous gain-of-function research,\
+    \ with a link to the White House website.\n6. **2027 NFL Draft in Washington,\
+    \ D.C.** (May 6, 2025, 00:20:42)\n\t* Announcement that the 2027 NFL Draft will\
+    \ take place on the National Mall in Washington, D.C.\n7. **Endorsement: Ed Martin\
+    \ for U.S. Attorney** (May 6, 2025, 00:13:05)\n\t* Support for Ed Martin's approval\
+    \ as U.S. Attorney, highlighting his passion for health and the need to \"Make\
+    \ America Healthy Again.\"\n8. **Free Tina Peters** (May 6, 2025, 00:12:48)\n\t\
+    * Call to action to free Tina Peters, a \"political prisoner\" in Colorado, and\
+    \ directive to the Department of Justice to secure her release.\n9. **National\
+    \ Small Business Week 2025** (May 5, 2025, 23:19:54)\n\t* Link to the White House\
+    \ website proclaiming National Small Business Week 2025.\n10. **National Holiday\
+    \ for World"
+  data:
+    profile: '@realDonaldTrump'
+    post_count: 20
+    posts:
+    - content: '“𝐏𝐑𝐄𝐒𝐈𝐃𝐄𝐍𝐓 𝐓𝐑𝐔𝐌𝐏 𝐖𝐀𝐍𝐓𝐒 𝐓𝐎 𝐑𝐄𝐎𝐏𝐄𝐍 𝐀𝐋𝐂𝐀𝐓𝐑𝐀𝐙”Stephen Miller: "There are
+        people in this country, as President Trump has said, who will do nothing with
+        their lives but rape, maim, and murder. They cannot be rehabilitated...We
+        need a place in this country where we can send people to visually demonstrate
+        their total separation from society…”'
+      created_at: '2025-05-06T00:51:38.845Z'
+      likes: 0
+      replies: 0
+      reposts: 0
+      url: https://truthsocial.com/@realDonaldTrump/114458145511409310
+    - content: 'RT: https://truthsocial.com/users/realDonaldTrump/statuses/114457309826756716'
+      created_at: '2025-05-06T00:46:29.061Z'
+      likes: 0
+      replies: 0
+      reposts: 0
+      url: https://truthsocial.com/@realDonaldTrump/114458125209508949
+    - content: 'RT: https://truthsocial.com/users/realDonaldTrump/statuses/114457309826756716'
+      created_at: '2025-05-06T00:43:34.225Z'
+      likes: 0
+      replies: 0
+      reposts: 0
+      url: https://truthsocial.com/@realDonaldTrump/114458113751338139
+    - content: 'Secretary Robert F. Kennedy Jr: “What we''re cutting is waste, fraud,
+        and abuse. We''re streamlining an agency that grew by 38% in the 4 years that
+        President Biden was in the White House...we''re not getting rid of ANY critical
+        research and we''re not getting rid of any of the programs that are critical
+        to Americans'' healthcare…”'
+      created_at: '2025-05-06T00:40:13.618Z'
+      likes: 0
+      replies: 0
+      reposts: 0
+      url: https://truthsocial.com/@realDonaldTrump/114458100604424846
+    - content: 'This afternoon I signed an Executive Order protecting Americans from
+        dangerous gain-of-function research. Read more here: https://www.whitehouse.gov/presidential-actions/2025/05/improving-the-safety-and-security-of-biological-research/'
+      created_at: '2025-05-06T00:38:44.165Z'
+      likes: 0
+      replies: 0
+      reposts: 0
+      url: https://truthsocial.com/@realDonaldTrump/114458094742048024
+    - content: I am pleased to announce the 2027 NFL Draft will take place here in
+        the Nation’s Capital on the National Mall…
+      created_at: '2025-05-06T00:20:42.447Z'
+      likes: 0
+      replies: 0
+      reposts: 0
+      url: https://truthsocial.com/@realDonaldTrump/114458023850536968
+    - content: Ed Martin is going through the approval process to be U.S. Attorney
+        in the District of Columbia. According to many but, in particular, Robert
+        F. Kennedy, Jr., his approval is IMPERATIVE in terms of doing all that has
+        to be done to SAVE LIVES and to, MAKE AMERICA HEALTHY AGAIN. This is a passion
+        for Ed, more so than for almost anyone that I have seen. One of the reasons
+        that I was so successful in winning the 2024 Presidential Election is my commitment
+        to Health, and helping to Make America Healthy. The Cost of the Chronic Disease
+        Epidemic has gotten out of control over the past four years of the Biden Presidency.
+        We are going to take our Country BACK, and FAST. Ed Martin will be a big player
+        in doing so and, I hope, that the Republican Senators will make a commitment
+        to his approval, which is now before them. Ed is coming up on the deadline
+        for Voting and, if approved, HE WILL NOT LET YOU DOWN. When some day in the
+        future you look back at your Vote for Ed Martin, you will be very proud of
+        what you have done for America and America’s Health. MAKE AMERICA GREAT AGAIN!
+      created_at: '2025-05-06T00:13:05.995Z'
+      likes: 0
+      replies: 0
+      reposts: 0
+      url: https://truthsocial.com/@realDonaldTrump/114457993936599790
+    - content: Radical Left Colorado Attorney General Phil Weiser ignores Illegals
+        committing Violent Crimes like Rape and Murder in his State and, instead,
+        jailed Tina Peters, a 69-year-old Gold Star mother who worked to expose and
+        document Democrat Election Fraud. Tina is an innocent Political Prisoner being
+        horribly and unjustly punished in the form of Cruel and Unusual Punishment.
+        This is a Communist persecution by the Radical Left Democrats to cover up
+        their Election crimes and misdeeds in 2020. The same Democrat Party that flies
+        to El Salvador to try to free an MS-13 Terrorist, is cruelly imprisoning,
+        perhaps for life, a grandmother whose brave and heroic son gave his life for
+        America. Colorado must end this unjust incarceration of an innocent American.
+        I am hereby directing the Department of Justice to take all necessary action
+        to help secure the release of this “hostage” being held in a Colorado prison
+        by the Democrats, for political reasons. FREE TINA PETERS, NOW!
+      created_at: '2025-05-06T00:12:48.159Z'
+      likes: 0
+      replies: 0
+      reposts: 0
+      url: https://truthsocial.com/@realDonaldTrump/114457992767716636
+    - content: https://www.whitehouse.gov/presidential-actions/2025/05/national-small-business-week-2025/
+      created_at: '2025-05-05T23:19:54.467Z'
+      likes: 0
+      replies: 0
+      reposts: 0
+      url: https://truthsocial.com/@realDonaldTrump/114457784776577118
+    - content: We won two World Wars, but we never took credit for it — Everyone else
+        does! All over the World, the Allies are celebrating the Victory we had in
+        World War II. The only Country that doesn’t celebrate is the United States
+        of America, and the Victory was only accomplished because of us. Without the
+        United States, the War would have been won by other Countries, and what a
+        different World it would be. Therefore, I am hereby declaring a National Holiday
+        in celebration of the Victories of World War I, where the Armistice was signed
+        on November 11, 1918, and World War II, where the Victory date was May 8,
+        1945. We will not be closing the Country for these two very important Holidays,
+        November 11 and May 8, World War I and World War II, because we already have
+        too many Holidays in America — There are not enough days left in the year.
+        We were Workers then, and we are Workers now! Documentation to follow. MAKE
+        AMERICA GREAT AGAIN!
+      created_at: '2025-05-05T22:49:50.616Z'
+      likes: 0
+      replies: 0
+      reposts: 0
+      url: https://truthsocial.com/@realDonaldTrump/114457666559426766
+    - content: ''
+      created_at: '2025-05-05T21:19:07.307Z'
+      likes: 0
+      replies: 0
+      reposts: 0
+      url: https://truthsocial.com/@realDonaldTrump/114457309826756716
+    - content: https://www.youtube.com/live/EmP6I1ucGRo?si=37LNZUfjamIZsQ47
+      created_at: '2025-05-05T19:28:05.209Z'
+      likes: 0
+      replies: 0
+      reposts: 0
+      url: https://truthsocial.com/@realDonaldTrump/114456873219445914
+    - content: PROMISES MADE, PROMISES KEPT!
+      created_at: '2025-05-05T18:10:31.037Z'
+      likes: 0
+      replies: 0
+      reposts: 0
+      url: https://truthsocial.com/@realDonaldTrump/114456568203695294
+    - content: The 2027 NFL Draft | Washington, D.C. https://www.youtube.com/live/EmP6I1ucGRo?si=bt2e0HMJRHqYjZp-
+      created_at: '2025-05-05T18:00:32.331Z'
+      likes: 0
+      replies: 0
+      reposts: 0
+      url: https://truthsocial.com/@realDonaldTrump/114456528966782457
+    - content: The NFL Draft is coming to Washington, D.C. in 2027! https://www.youtube.com/live/EmP6I1ucGRo?si=NN9Vxvm7tGKDMqQ5
+      created_at: '2025-05-05T17:58:17.731Z'
+      likes: 0
+      replies: 0
+      reposts: 0
+      url: https://truthsocial.com/@realDonaldTrump/114456520145752092
+    - content: https://www.youtube.com/live/EmP6I1ucGRo?si=Xu5aEKvtCKhUexlX
+      created_at: '2025-05-05T17:39:23.003Z'
+      likes: 0
+      replies: 0
+      reposts: 0
+      url: https://truthsocial.com/@realDonaldTrump/114456445780203083
+    - content: This was so wonderful, 9 years ago today!
+      created_at: '2025-05-05T15:52:46.471Z'
+      likes: 0
+      replies: 0
+      reposts: 0
+      url: https://truthsocial.com/@realDonaldTrump/114456026572229510
+    - content: 'Secretary Scott Bessent: "President Trump has secured more investment
+        for our country in 100 days than President Biden did during all four years."'
+      created_at: '2025-05-05T15:40:04.011Z'
+      likes: 0
+      replies: 0
+      reposts: 0
+      url: https://truthsocial.com/@realDonaldTrump/114455976603502389
+    - content: I just had a very good and productive telephone conversation with the
+        President of Turkey, Recep Erdoğan, concerning many subjects, including the
+        War with Russia/Ukraine, all things Syria, Gaza, and more. The President invited
+        me to go to Turkey at a future date and, likewise, he will be coming to Washington,
+        D.C. During my four years as President, my relationship with President Erdoğan
+        was excellent. We worked together closely on numerous things, including the
+        fact that he helped return Pastor Andrew Brunson, who was imprisoned, back
+        to the United States — Immediately upon my request. In any event, I look forward
+        to working with President Erdoğan on getting the ridiculous, but deadly, War
+        between Russia and Ukraine ended — NOW!
+      created_at: '2025-05-05T15:10:29.056Z'
+      likes: 0
+      replies: 0
+      reposts: 0
+      url: https://truthsocial.com/@realDonaldTrump/114455860282159313
+    - content: BILL ACKMAN ON HARVARD AND UNIVERSITY FUNDING, THIS MORNING ON SQUAWK
+        BOX…
+      created_at: '2025-05-05T14:49:09.461Z'
+      likes: 0
+      replies: 0
+      reposts: 0
+      url: https://truthsocial.com/@realDonaldTrump/114455776425590388
+input_direct:
+  tool: get_trump_posts
+  tool_arguments:
+    max_posts: 5
+  raw_data_only: false
+output_direct:
+  response: ''
+  data:
+    profile: '@realDonaldTrump'
+    post_count: 20
+    posts:
+    - content: '“𝐏𝐑𝐄𝐒𝐈𝐃𝐄𝐍𝐓 𝐓𝐑𝐔𝐌𝐏 𝐖𝐀𝐍𝐓𝐒 𝐓𝐎 𝐑𝐄𝐎𝐏𝐄𝐍 𝐀𝐋𝐂𝐀𝐓𝐑𝐀𝐙”Stephen Miller: "There are
+        people in this country, as President Trump has said, who will do nothing with
+        their lives but rape, maim, and murder. They cannot be rehabilitated...We
+        need a place in this country where we can send people to visually demonstrate
+        their total separation from society…”'
+      created_at: '2025-05-06T00:51:38.845Z'
+      likes: 0
+      replies: 0
+      reposts: 0
+      url: https://truthsocial.com/@realDonaldTrump/114458145511409310
+    - content: 'RT: https://truthsocial.com/users/realDonaldTrump/statuses/114457309826756716'
+      created_at: '2025-05-06T00:46:29.061Z'
+      likes: 0
+      replies: 0
+      reposts: 0
+      url: https://truthsocial.com/@realDonaldTrump/114458125209508949
+    - content: 'RT: https://truthsocial.com/users/realDonaldTrump/statuses/114457309826756716'
+      created_at: '2025-05-06T00:43:34.225Z'
+      likes: 0
+      replies: 0
+      reposts: 0
+      url: https://truthsocial.com/@realDonaldTrump/114458113751338139
+    - content: 'Secretary Robert F. Kennedy Jr: “What we''re cutting is waste, fraud,
+        and abuse. We''re streamlining an agency that grew by 38% in the 4 years that
+        President Biden was in the White House...we''re not getting rid of ANY critical
+        research and we''re not getting rid of any of the programs that are critical
+        to Americans'' healthcare…”'
+      created_at: '2025-05-06T00:40:13.618Z'
+      likes: 0
+      replies: 0
+      reposts: 0
+      url: https://truthsocial.com/@realDonaldTrump/114458100604424846
+    - content: 'This afternoon I signed an Executive Order protecting Americans from
+        dangerous gain-of-function research. Read more here: https://www.whitehouse.gov/presidential-actions/2025/05/improving-the-safety-and-security-of-biological-research/'
+      created_at: '2025-05-06T00:38:44.165Z'
+      likes: 0
+      replies: 0
+      reposts: 0
+      url: https://truthsocial.com/@realDonaldTrump/114458094742048024
+    - content: I am pleased to announce the 2027 NFL Draft will take place here in
+        the Nation’s Capital on the National Mall…
+      created_at: '2025-05-06T00:20:42.447Z'
+      likes: 0
+      replies: 0
+      reposts: 0
+      url: https://truthsocial.com/@realDonaldTrump/114458023850536968
+    - content: Ed Martin is going through the approval process to be U.S. Attorney
+        in the District of Columbia. According to many but, in particular, Robert
+        F. Kennedy, Jr., his approval is IMPERATIVE in terms of doing all that has
+        to be done to SAVE LIVES and to, MAKE AMERICA HEALTHY AGAIN. This is a passion
+        for Ed, more so than for almost anyone that I have seen. One of the reasons
+        that I was so successful in winning the 2024 Presidential Election is my commitment
+        to Health, and helping to Make America Healthy. The Cost of the Chronic Disease
+        Epidemic has gotten out of control over the past four years of the Biden Presidency.
+        We are going to take our Country BACK, and FAST. Ed Martin will be a big player
+        in doing so and, I hope, that the Republican Senators will make a commitment
+        to his approval, which is now before them. Ed is coming up on the deadline
+        for Voting and, if approved, HE WILL NOT LET YOU DOWN. When some day in the
+        future you look back at your Vote for Ed Martin, you will be very proud of
+        what you have done for America and America’s Health. MAKE AMERICA GREAT AGAIN!
+      created_at: '2025-05-06T00:13:05.995Z'
+      likes: 0
+      replies: 0
+      reposts: 0
+      url: https://truthsocial.com/@realDonaldTrump/114457993936599790
+    - content: Radical Left Colorado Attorney General Phil Weiser ignores Illegals
+        committing Violent Crimes like Rape and Murder in his State and, instead,
+        jailed Tina Peters, a 69-year-old Gold Star mother who worked to expose and
+        document Democrat Election Fraud. Tina is an innocent Political Prisoner being
+        horribly and unjustly punished in the form of Cruel and Unusual Punishment.
+        This is a Communist persecution by the Radical Left Democrats to cover up
+        their Election crimes and misdeeds in 2020. The same Democrat Party that flies
+        to El Salvador to try to free an MS-13 Terrorist, is cruelly imprisoning,
+        perhaps for life, a grandmother whose brave and heroic son gave his life for
+        America. Colorado must end this unjust incarceration of an innocent American.
+        I am hereby directing the Department of Justice to take all necessary action
+        to help secure the release of this “hostage” being held in a Colorado prison
+        by the Democrats, for political reasons. FREE TINA PETERS, NOW!
+      created_at: '2025-05-06T00:12:48.159Z'
+      likes: 0
+      replies: 0
+      reposts: 0
+      url: https://truthsocial.com/@realDonaldTrump/114457992767716636
+    - content: https://www.whitehouse.gov/presidential-actions/2025/05/national-small-business-week-2025/
+      created_at: '2025-05-05T23:19:54.467Z'
+      likes: 0
+      replies: 0
+      reposts: 0
+      url: https://truthsocial.com/@realDonaldTrump/114457784776577118
+    - content: We won two World Wars, but we never took credit for it — Everyone else
+        does! All over the World, the Allies are celebrating the Victory we had in
+        World War II. The only Country that doesn’t celebrate is the United States
+        of America, and the Victory was only accomplished because of us. Without the
+        United States, the War would have been won by other Countries, and what a
+        different World it would be. Therefore, I am hereby declaring a National Holiday
+        in celebration of the Victories of World War I, where the Armistice was signed
+        on November 11, 1918, and World War II, where the Victory date was May 8,
+        1945. We will not be closing the Country for these two very important Holidays,
+        November 11 and May 8, World War I and World War II, because we already have
+        too many Holidays in America — There are not enough days left in the year.
+        We were Workers then, and we are Workers now! Documentation to follow. MAKE
+        AMERICA GREAT AGAIN!
+      created_at: '2025-05-05T22:49:50.616Z'
+      likes: 0
+      replies: 0
+      reposts: 0
+      url: https://truthsocial.com/@realDonaldTrump/114457666559426766
+    - content: ''
+      created_at: '2025-05-05T21:19:07.307Z'
+      likes: 0
+      replies: 0
+      reposts: 0
+      url: https://truthsocial.com/@realDonaldTrump/114457309826756716
+    - content: https://www.youtube.com/live/EmP6I1ucGRo?si=37LNZUfjamIZsQ47
+      created_at: '2025-05-05T19:28:05.209Z'
+      likes: 0
+      replies: 0
+      reposts: 0
+      url: https://truthsocial.com/@realDonaldTrump/114456873219445914
+    - content: PROMISES MADE, PROMISES KEPT!
+      created_at: '2025-05-05T18:10:31.037Z'
+      likes: 0
+      replies: 0
+      reposts: 0
+      url: https://truthsocial.com/@realDonaldTrump/114456568203695294
+    - content: The 2027 NFL Draft | Washington, D.C. https://www.youtube.com/live/EmP6I1ucGRo?si=bt2e0HMJRHqYjZp-
+      created_at: '2025-05-05T18:00:32.331Z'
+      likes: 0
+      replies: 0
+      reposts: 0
+      url: https://truthsocial.com/@realDonaldTrump/114456528966782457
+    - content: The NFL Draft is coming to Washington, D.C. in 2027! https://www.youtube.com/live/EmP6I1ucGRo?si=NN9Vxvm7tGKDMqQ5
+      created_at: '2025-05-05T17:58:17.731Z'
+      likes: 0
+      replies: 0
+      reposts: 0
+      url: https://truthsocial.com/@realDonaldTrump/114456520145752092
+    - content: https://www.youtube.com/live/EmP6I1ucGRo?si=Xu5aEKvtCKhUexlX
+      created_at: '2025-05-05T17:39:23.003Z'
+      likes: 0
+      replies: 0
+      reposts: 0
+      url: https://truthsocial.com/@realDonaldTrump/114456445780203083
+    - content: This was so wonderful, 9 years ago today!
+      created_at: '2025-05-05T15:52:46.471Z'
+      likes: 0
+      replies: 0
+      reposts: 0
+      url: https://truthsocial.com/@realDonaldTrump/114456026572229510
+    - content: 'Secretary Scott Bessent: "President Trump has secured more investment
+        for our country in 100 days than President Biden did during all four years."'
+      created_at: '2025-05-05T15:40:04.011Z'
+      likes: 0
+      replies: 0
+      reposts: 0
+      url: https://truthsocial.com/@realDonaldTrump/114455976603502389
+    - content: I just had a very good and productive telephone conversation with the
+        President of Turkey, Recep Erdoğan, concerning many subjects, including the
+        War with Russia/Ukraine, all things Syria, Gaza, and more. The President invited
+        me to go to Turkey at a future date and, likewise, he will be coming to Washington,
+        D.C. During my four years as President, my relationship with President Erdoğan
+        was excellent. We worked together closely on numerous things, including the
+        fact that he helped return Pastor Andrew Brunson, who was imprisoned, back
+        to the United States — Immediately upon my request. In any event, I look forward
+        to working with President Erdoğan on getting the ridiculous, but deadly, War
+        between Russia and Ukraine ended — NOW!
+      created_at: '2025-05-05T15:10:29.056Z'
+      likes: 0
+      replies: 0
+      reposts: 0
+      url: https://truthsocial.com/@realDonaldTrump/114455860282159313
+    - content: BILL ACKMAN ON HARVARD AND UNIVERSITY FUNDING, THIS MORNING ON SQUAWK
+        BOX…
+      created_at: '2025-05-05T14:49:09.461Z'
+      likes: 0
+      replies: 0
+      reposts: 0
+      url: https://truthsocial.com/@realDonaldTrump/114455776425590388
+input_direct_2:
+  tool: get_trump_posts
+  tool_arguments:
+    max_posts: 5
+  raw_data_only: true
+output_direct_2:
+  response: ''
+  data:
+    profile: '@realDonaldTrump'
+    post_count: 20
+    posts:
+    - content: '“𝐏𝐑𝐄𝐒𝐈𝐃𝐄𝐍𝐓 𝐓𝐑𝐔𝐌𝐏 𝐖𝐀𝐍𝐓𝐒 𝐓𝐎 𝐑𝐄𝐎𝐏𝐄𝐍 𝐀𝐋𝐂𝐀𝐓𝐑𝐀𝐙”Stephen Miller: "There are
+        people in this country, as President Trump has said, who will do nothing with
+        their lives but rape, maim, and murder. They cannot be rehabilitated...We
+        need a place in this country where we can send people to visually demonstrate
+        their total separation from society…”'
+      created_at: '2025-05-06T00:51:38.845Z'
+      likes: 0
+      replies: 0
+      reposts: 0
+      url: https://truthsocial.com/@realDonaldTrump/114458145511409310
+    - content: 'RT: https://truthsocial.com/users/realDonaldTrump/statuses/114457309826756716'
+      created_at: '2025-05-06T00:46:29.061Z'
+      likes: 0
+      replies: 0
+      reposts: 0
+      url: https://truthsocial.com/@realDonaldTrump/114458125209508949
+    - content: 'RT: https://truthsocial.com/users/realDonaldTrump/statuses/114457309826756716'
+      created_at: '2025-05-06T00:43:34.225Z'
+      likes: 0
+      replies: 0
+      reposts: 0
+      url: https://truthsocial.com/@realDonaldTrump/114458113751338139
+    - content: 'Secretary Robert F. Kennedy Jr: “What we''re cutting is waste, fraud,
+        and abuse. We''re streamlining an agency that grew by 38% in the 4 years that
+        President Biden was in the White House...we''re not getting rid of ANY critical
+        research and we''re not getting rid of any of the programs that are critical
+        to Americans'' healthcare…”'
+      created_at: '2025-05-06T00:40:13.618Z'
+      likes: 0
+      replies: 0
+      reposts: 0
+      url: https://truthsocial.com/@realDonaldTrump/114458100604424846
+    - content: 'This afternoon I signed an Executive Order protecting Americans from
+        dangerous gain-of-function research. Read more here: https://www.whitehouse.gov/presidential-actions/2025/05/improving-the-safety-and-security-of-biological-research/'
+      created_at: '2025-05-06T00:38:44.165Z'
+      likes: 0
+      replies: 0
+      reposts: 0
+      url: https://truthsocial.com/@realDonaldTrump/114458094742048024
+    - content: I am pleased to announce the 2027 NFL Draft will take place here in
+        the Nation’s Capital on the National Mall…
+      created_at: '2025-05-06T00:20:42.447Z'
+      likes: 0
+      replies: 0
+      reposts: 0
+      url: https://truthsocial.com/@realDonaldTrump/114458023850536968
+    - content: Ed Martin is going through the approval process to be U.S. Attorney
+        in the District of Columbia. According to many but, in particular, Robert
+        F. Kennedy, Jr., his approval is IMPERATIVE in terms of doing all that has
+        to be done to SAVE LIVES and to, MAKE AMERICA HEALTHY AGAIN. This is a passion
+        for Ed, more so than for almost anyone that I have seen. One of the reasons
+        that I was so successful in winning the 2024 Presidential Election is my commitment
+        to Health, and helping to Make America Healthy. The Cost of the Chronic Disease
+        Epidemic has gotten out of control over the past four years of the Biden Presidency.
+        We are going to take our Country BACK, and FAST. Ed Martin will be a big player
+        in doing so and, I hope, that the Republican Senators will make a commitment
+        to his approval, which is now before them. Ed is coming up on the deadline
+        for Voting and, if approved, HE WILL NOT LET YOU DOWN. When some day in the
+        future you look back at your Vote for Ed Martin, you will be very proud of
+        what you have done for America and America’s Health. MAKE AMERICA GREAT AGAIN!
+      created_at: '2025-05-06T00:13:05.995Z'
+      likes: 0
+      replies: 0
+      reposts: 0
+      url: https://truthsocial.com/@realDonaldTrump/114457993936599790
+    - content: Radical Left Colorado Attorney General Phil Weiser ignores Illegals
+        committing Violent Crimes like Rape and Murder in his State and, instead,
+        jailed Tina Peters, a 69-year-old Gold Star mother who worked to expose and
+        document Democrat Election Fraud. Tina is an innocent Political Prisoner being
+        horribly and unjustly punished in the form of Cruel and Unusual Punishment.
+        This is a Communist persecution by the Radical Left Democrats to cover up
+        their Election crimes and misdeeds in 2020. The same Democrat Party that flies
+        to El Salvador to try to free an MS-13 Terrorist, is cruelly imprisoning,
+        perhaps for life, a grandmother whose brave and heroic son gave his life for
+        America. Colorado must end this unjust incarceration of an innocent American.
+        I am hereby directing the Department of Justice to take all necessary action
+        to help secure the release of this “hostage” being held in a Colorado prison
+        by the Democrats, for political reasons. FREE TINA PETERS, NOW!
+      created_at: '2025-05-06T00:12:48.159Z'
+      likes: 0
+      replies: 0
+      reposts: 0
+      url: https://truthsocial.com/@realDonaldTrump/114457992767716636
+    - content: https://www.whitehouse.gov/presidential-actions/2025/05/national-small-business-week-2025/
+      created_at: '2025-05-05T23:19:54.467Z'
+      likes: 0
+      replies: 0
+      reposts: 0
+      url: https://truthsocial.com/@realDonaldTrump/114457784776577118
+    - content: We won two World Wars, but we never took credit for it — Everyone else
+        does! All over the World, the Allies are celebrating the Victory we had in
+        World War II. The only Country that doesn’t celebrate is the United States
+        of America, and the Victory was only accomplished because of us. Without the
+        United States, the War would have been won by other Countries, and what a
+        different World it would be. Therefore, I am hereby declaring a National Holiday
+        in celebration of the Victories of World War I, where the Armistice was signed
+        on November 11, 1918, and World War II, where the Victory date was May 8,
+        1945. We will not be closing the Country for these two very important Holidays,
+        November 11 and May 8, World War I and World War II, because we already have
+        too many Holidays in America — There are not enough days left in the year.
+        We were Workers then, and we are Workers now! Documentation to follow. MAKE
+        AMERICA GREAT AGAIN!
+      created_at: '2025-05-05T22:49:50.616Z'
+      likes: 0
+      replies: 0
+      reposts: 0
+      url: https://truthsocial.com/@realDonaldTrump/114457666559426766
+    - content: ''
+      created_at: '2025-05-05T21:19:07.307Z'
+      likes: 0
+      replies: 0
+      reposts: 0
+      url: https://truthsocial.com/@realDonaldTrump/114457309826756716
+    - content: https://www.youtube.com/live/EmP6I1ucGRo?si=37LNZUfjamIZsQ47
+      created_at: '2025-05-05T19:28:05.209Z'
+      likes: 0
+      replies: 0
+      reposts: 0
+      url: https://truthsocial.com/@realDonaldTrump/114456873219445914
+    - content: PROMISES MADE, PROMISES KEPT!
+      created_at: '2025-05-05T18:10:31.037Z'
+      likes: 0
+      replies: 0
+      reposts: 0
+      url: https://truthsocial.com/@realDonaldTrump/114456568203695294
+    - content: The 2027 NFL Draft | Washington, D.C. https://www.youtube.com/live/EmP6I1ucGRo?si=bt2e0HMJRHqYjZp-
+      created_at: '2025-05-05T18:00:32.331Z'
+      likes: 0
+      replies: 0
+      reposts: 0
+      url: https://truthsocial.com/@realDonaldTrump/114456528966782457
+    - content: The NFL Draft is coming to Washington, D.C. in 2027! https://www.youtube.com/live/EmP6I1ucGRo?si=NN9Vxvm7tGKDMqQ5
+      created_at: '2025-05-05T17:58:17.731Z'
+      likes: 0
+      replies: 0
+      reposts: 0
+      url: https://truthsocial.com/@realDonaldTrump/114456520145752092
+    - content: https://www.youtube.com/live/EmP6I1ucGRo?si=Xu5aEKvtCKhUexlX
+      created_at: '2025-05-05T17:39:23.003Z'
+      likes: 0
+      replies: 0
+      reposts: 0
+      url: https://truthsocial.com/@realDonaldTrump/114456445780203083
+    - content: This was so wonderful, 9 years ago today!
+      created_at: '2025-05-05T15:52:46.471Z'
+      likes: 0
+      replies: 0
+      reposts: 0
+      url: https://truthsocial.com/@realDonaldTrump/114456026572229510
+    - content: 'Secretary Scott Bessent: "President Trump has secured more investment
+        for our country in 100 days than President Biden did during all four years."'
+      created_at: '2025-05-05T15:40:04.011Z'
+      likes: 0
+      replies: 0
+      reposts: 0
+      url: https://truthsocial.com/@realDonaldTrump/114455976603502389
+    - content: I just had a very good and productive telephone conversation with the
+        President of Turkey, Recep Erdoğan, concerning many subjects, including the
+        War with Russia/Ukraine, all things Syria, Gaza, and more. The President invited
+        me to go to Turkey at a future date and, likewise, he will be coming to Washington,
+        D.C. During my four years as President, my relationship with President Erdoğan
+        was excellent. We worked together closely on numerous things, including the
+        fact that he helped return Pastor Andrew Brunson, who was imprisoned, back
+        to the United States — Immediately upon my request. In any event, I look forward
+        to working with President Erdoğan on getting the ridiculous, but deadly, War
+        between Russia and Ukraine ended — NOW!
+      created_at: '2025-05-05T15:10:29.056Z'
+      likes: 0
+      replies: 0
+      reposts: 0
+      url: https://truthsocial.com/@realDonaldTrump/114455860282159313
+    - content: BILL ACKMAN ON HARVARD AND UNIVERSITY FUNDING, THIS MORNING ON SQUAWK
+        BOX…
+      created_at: '2025-05-05T14:49:09.461Z'
+      likes: 0
+      replies: 0
+      reposts: 0
+      url: https://truthsocial.com/@realDonaldTrump/114455776425590388

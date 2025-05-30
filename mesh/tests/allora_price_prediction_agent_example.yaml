@@ -1,0 +1,19 @@
+input:
+  query: Predict ETH price in 5 minutes
+output:
+  response: 'ETH Price Prediction (5-minute timeframe):
+
+    Expected Price: $1,820.91
+
+    Token: Ethereum (ETH)
+
+    Timeframe: 5 minutes
+
+    **Note:** Confidence intervals not provided by the model for this prediction.'
+  data:
+    prediction_data:
+      token: ETH
+      timeframe: 5m
+      prediction: 1820.90771484375
+      confidence_intervals: []
+      confidence_interval_values: []

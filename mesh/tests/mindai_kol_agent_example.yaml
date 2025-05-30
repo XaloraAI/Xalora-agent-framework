@@ -1,0 +1,419 @@
+input_best_calls:
+  query: Find the best initial calls for HEU token
+output_best_calls:
+  response: "**Best Initial Call for HEU Token:**\n\nBased on the provided Mind AI\
+    \ data, here is the insight for the best initial call for HEU token:\n\n* **KOL\
+    \ (Key Opinion Leader):** `@agentcookiefun`\n* **Token Details:**\n\t+ **Token\
+    \ Name:** Heurist\n\t+ **Token Symbol:** HEU\n\t+ **Token Category:** Low Rank\
+    \ Coins\n* **Call Performance:**\n\t+ **Initial Call Price:** $0.01216763\n\t\
+    + **Return on Advice (ROA):** 172.77908680655148%\n\t+ **ROA at All-Time High:**\
+    \ 281.1565604805537%\n* **Call Date:** April 10, 2025, 19:07:08 (UTC)\n* **Platform:**\
+    \ Twitter\n\n**Interpretation:**\n`@agentcookiefun` made an initial call for HEU\
+    \ token on April 10, 2025, at a price of $0.01216763. As of the data cutoff, this\
+    \ call yielded an impressive **172.78% ROA**, with the potential for even higher\
+    \ returns (**281.16% ROA at ATH**). This suggests that `@agentcookiefun` had a\
+    \ highly successful initial call for the HEU token."
+  data:
+    rawText: 'Top 5 Mindshare gainers in the last 6H
+
+
+      1. #WAYFINDER @AIWayfinder
+
+      2. #THEORIQ @TheoriqAI
+
+      3. #OPENLEDGER @OpenledgerHQ
+
+      4. $HEU @heurist_ai
+
+      5. $FET @Fetch_ai
+
+
+      Data: $COOKIE-gated https://t.co/3eIwUvKnz5. https://t.co/T3psJfDIoS'
+    platform: twitter
+    callDate: '2025-04-10T19:07:08.000Z'
+    kolName: '@agentcookiefun'
+    tokenName: Heurist
+    tokenSymbol: heu
+    tokenCategory: Low Rank Coins
+    callPrice: 0.01216763
+    roa: 172.77908680655148
+    roaAtAth: 281.1565604805537
+input_kol_stats:
+  query: What are the statistics for KOL @agentcookiefun?
+output_kol_stats:
+  response: "**Statistics for KOL @agentcookiefun**\n\n* **Total Calls Made:** **127**\n\
+    * **Token Category Breakdown:**\n\t+ **Top 100 Tokens:** **5** calls (3.9% of\
+    \ total)\n\t+ **Top 500 Tokens:** **8** calls (6.3% of total)\n\t+ **Low-Ranked\
+    \ Tokens:** **114** calls (89.8% of total)\n* **Average Return on Investment (ROI)\
+    \ Analysis:**\n\t+ **Based on Current Price:** **-3.20%**\n\t+ **Based on All-Time\
+    \ High (ATH):** **11.76%** \n\n**Insights:**\n\n1. **@agentcookiefun** has a diverse\
+    \ portfolio with a focus on lower-ranked tokens, which might indicate a higher\
+    \ risk, higher reward strategy.\n2. The KOL's calls based on current prices show\
+    \ a negative ROI, suggesting potential for improvement in short-term investment\
+    \ advice.\n3. However, the significant positive ROI based on ATH indicates **@agentcookiefun**\
+    \ has identified tokens with substantial growth potential over time, even if they\
+    \ may not currently be at peak value. \n\n**Recommendation for Users:**\n- Approach\
+    \ with caution for short-term investments.\n- Consider **@agentcookiefun's** calls\
+    \ for potential long-term growth opportunities, especially in overlooked or emerging\
+    \ tokens. \n- Always conduct personal research before making investment decisions."
+  data:
+    kolName: '@agentcookiefun'
+    totalCalls: 127
+    tokensCategory:
+      top100: 5
+      top500: 8
+      lowRank: 114
+    avgRoa:
+      byCurrentPrice: -3.1981669654695275
+      byAth: 11.755106566773454
+input_token_stats:
+  query: Get token statistics for ETH in the last month
+output_token_stats:
+  response: "**Ethereum (ETH) Token Statistics - Last Month**\n\nHere's a concise\
+    \ breakdown of Ethereum's (ETH) performance based on Mind AI data for the past\
+    \ month:\n\n* **Token Information**\n\t+ **Name:** Ethereum\n\t+ **Symbol:** ETH\n\
+    \t+ **Category:** Top 100\n* **KOL Engagement**\n\t+ **Total Calls:** 2,401 (mentions/shouts-outs\
+    \ by KOLs)\n\t+ **Unique KOLs:** 288 (number of individual KOLs mentioning ETH)\n\
+    * **Performance Metrics**\n\t+ **Call Ratio:** 0.12 (ratio of ETH calls to overall\
+    \ KOL activity; *interpretation: relatively low engagement compared to overall\
+    \ KOL activity*)\n* **Price Movement**\n\t+ **Daily Change:** **-0.75%** (decrease\
+    \ in the last 24 hours)\n\t+ **Weekly Change:** **+1.12%** (increase over the\
+    \ past week)\n\t+ **Monthly Change:** **+0.78%** (increase over the past month)\n\
+    \n**Insights:**\n\n1. **Stable Monthly Growth**: Despite a daily dip, ETH shows\
+    \ a slight increase in value over the past month (+0.78%).\n2. **Moderate Weekly\
+    \ Recovery**: A weekly increase of +1.12% indicates a recent upward trend.\n3.\
+    \ **Low KOL Engagement Ratio**: The call ratio of 0.12 suggests ETH might not\
+    \ have been as prominently discussed among KOLs recently compared to other tokens,\
+    \ despite being in the Top 100 category.\n\n**Actionable Advice for Users:**\n\
+    \n* **Short-term Caution**: Be cautious due to the -0.75% daily change, potentially\
+    \ indicating short-term market volatility.\n* **Long-term Optimism**: The positive\
+    \ monthly and weekly changes might suggest a long-term bullish outlook for ETH.\n\
+    * **Monitor KOL Sentiment**: Keep an eye on KOL discussions, as an increase in\
+    \ engagement could potentially influence price movements."
+  data:
+    tokenName: Ethereum
+    tokenSymbol: eth
+    tokenCategory: Top 100
+    totalCalls: 2401
+    uniqueKols: 288
+    callRatio: 0.12
+    dailyChange: -0.75
+    weeklyChange: 1.12
+    monthlyChange: 0.78
+input_top_gainers:
+  query: Show me the top gainers in the past week
+output_top_gainers:
+  response: "**Top Gainers in the Past Week (based on Return on Advice (ROA) and ROA\
+    \ at All-Time High (ROA at ATH))**\n\nHere's a concise summary of the top gainers,\
+    \ grouped by token:\n\n### **Top Performing Tokens:**\n\n1. **Virtuals Protocol\
+    \ (VIRTUAL)**\n\t* **Top KOLs:**\n\t\t+ `@seraphagent`, `@BaseCaptainHB`, `@esatoshiclub`\
+    \ (all with identical metrics due to same call price and date)\n\t* **Key Metrics:**\n\
+    \t\t- **ROA:** 44.72%\n\t\t- **ROA at ATH:** 53.66%\n\t\t- **Call Price:** $1.23\n\
+    \t\t- **Call Date:** 2025-04-28\n2. **Hyperliquid (HYPE)**\n\t* **Top KOLs:**\n\
+    \t\t+ `@RiddlerDeFi` (ROA: 18.75%, Call Price: $17.39, Call Date: 2025-04-28)\n\
+    \t* **Key Metrics (Average):**\n\t\t- **ROA:** 17.39% (avg. of top calls)\n\t\t\
+    - **ROA at ATH:** 22.23% (avg. of top calls)\n3. **Quant (QNT)**\n\t* **Top KOLs:**\n\
+    \t\t+ `@DamiDefi` (ROA: 13.86%, Call Price: $75.67, Call Date: 2025-04-28)\n\t\
+    * **Key Metrics (Top Call):**\n\t\t- **ROA:** 13.86%\n\t\t- **ROA at ATH:** 19.69%\n\
+    4. **Curve DAO (CRV)**\n\t* **Top KOLs:**\n\t\t+ `@CredibleCrypto` (ROA: 10.01%,\
+    \ Call Price: $0.631823, Call Date: 2025-04-28)\n\t* **Key Metrics (Top Call):**\n\
+    \t\t- **ROA:** 10.01%\n\t\t- **ROA at ATH:** 18.88%\n5. **Kaspa (KAS)**\n\t* **Top\
+    \ KOLs:**\n\t\t+ `@ourcryptotalk` (ROA: 8.77"
+  data:
+  - - tokenName: Virtuals Protocol
+      tokenSymbol: virtual
+      tokenCategory: Top 100
+      kolName: '@seraphagent'
+      callPrice: 1.23
+      callDate: '2025-04-28T16:30:42.000Z'
+      roa: 44.71544715447155
+      roaAtAth: 53.658536585365844
+    - tokenName: Virtuals Protocol
+      tokenSymbol: virtual
+      tokenCategory: Top 100
+      kolName: '@BaseCaptainHB'
+      callPrice: 1.23
+      callDate: '2025-04-28T17:29:47.000Z'
+      roa: 44.71544715447155
+      roaAtAth: 53.658536585365844
+    - tokenName: Virtuals Protocol
+      tokenSymbol: virtual
+      tokenCategory: Top 100
+      kolName: '@esatoshiclub'
+      callPrice: 1.23
+      callDate: '2025-04-28T16:35:33.000Z'
+      roa: 44.71544715447155
+      roaAtAth: 53.658536585365844
+  - - tokenName: Hyperliquid
+      tokenSymbol: hype
+      tokenCategory: Top 100
+      kolName: '@RiddlerDeFi'
+      callPrice: 17.39
+      callDate: '2025-04-28T20:26:55.000Z'
+      roa: 18.74640598044852
+      roaAtAth: 23.346751006325466
+    - tokenName: Hyperliquid
+      tokenSymbol: hype
+      tokenCategory: Top 100
+      kolName: '@CryptoGideon_'
+      callPrice: 17.55
+      callDate: '2025-04-28T19:03:04.000Z'
+      roa: 17.663817663817653
+      roaAtAth: 22.222222222222214
+    - tokenName: Hyperliquid
+      tokenSymbol: hype
+      tokenCategory: Top 100
+      kolName: '@crypthoem'
+      callPrice: 17.82
+      callDate: '2025-04-28T15:24:32.000Z'
+      roa: 15.881032547699206
+      roaAtAth: 20.370370370370363
+  - - tokenName: Quant
+      tokenSymbol: qnt
+      tokenCategory: Top 100
+      kolName: '@DamiDefi'
+      callPrice: 75.67
+      callDate: '2025-04-28T22:33:00.000Z'
+      roa: 13.862825426192671
+      roaAtAth: 19.690762521474813
+    - tokenName: Quant
+      tokenSymbol: qnt
+      tokenCategory: Top 100
+      kolName: '@AltCryptoGems'
+      callPrice: 83.13
+      callDate: '2025-05-02T05:57:00.000Z'
+      roa: 3.6448935402381824
+      roaAtAth: 8.949837603753155
+    - tokenName: Quant
+      tokenSymbol: qnt
+      tokenCategory: Top 100
+      kolName: '@MasonVersluis'
+      callPrice: 83.13
+      callDate: '2025-05-02T01:59:37.000Z'
+      roa: 3.6448935402381824
+      roaAtAth: 8.949837603753155
+  - - tokenName: Curve DAO
+      tokenSymbol: crv
+      tokenCategory: Top 100
+      kolName: '@CredibleCrypto'
+      callPrice: 0.631823
+      callDate: '2025-04-28T17:21:26.000Z'
+      roa: 10.0149883749088
+      roaAtAth: 18.877438776366155
+    - tokenName: Curve DAO
+      tokenSymbol: crv
+      tokenCategory: Top 100
+      kolName: '@rektfencer'
+      callPrice: 0.631823
+      callDate: '2025-04-28T17:29:01.000Z'
+      roa: 10.0149883749088
+      roaAtAth: 18.877438776366155
+    - tokenName: Curve DAO
+      tokenSymbol: crv
+      tokenCategory: Top 100
+      kolName: '@CredibleCrypto'
+      callPrice: 0.643397
+      callDate: '2025-04-28T16:30:14.000Z'
+      roa: 8.035940484646346
+      roaAtAth: 16.738965211214843
+  - - tokenName: Kaspa
+      tokenSymbol: kas
+      tokenCategory: Top 100
+      kolName: '@ourcryptotalk'
+      callPrice: 0.085073
+      callDate: '2025-04-30T16:25:52.000Z'
+      roa: 8.765413233340785
+      roaAtAth: 21.74015257484748
+    - tokenName: Kaspa
+      tokenSymbol: kas
+      tokenCategory: Top 100
+      kolName: '@BSCNews'
+      callPrice: 0.087869
+      callDate: '2025-04-30T01:32:00.000Z'
+      roa: 5.304487361868234
+      roaAtAth: 17.86636925423072
+    - tokenName: Kaspa
+      tokenSymbol: kas
+      tokenCategory: Top 100
+      kolName: '@BSCNews'
+      callPrice: 0.088376
+      callDate: '2025-04-30T04:40:16.000Z'
+      roa: 4.700371141486382
+      roaAtAth: 17.19018738118946
+input_direct_best_calls:
+  tool: get_best_initial_calls
+  tool_arguments:
+    period: 168
+    token_symbol: HEU
+  raw_data_only: true
+output_direct_best_calls:
+  response: ''
+  data:
+    error: 'API request failed: 404 Client Error: Not Found for url: https://app.mind-ai.io/api/v1/best-initial-call?period=168&sortBy=RoaAtCurrPrice&tokenSymbol=HEU'
+input_direct_kol_stats:
+  tool: get_kol_statistics
+  tool_arguments:
+    period: 720
+    kol_name: '@agentcookiefun'
+  raw_data_only: true
+output_direct_kol_stats:
+  response: ''
+  data:
+    kolName: '@agentcookiefun'
+    totalCalls: 506
+    tokensCategory:
+      top100: 20
+      top500: 91
+      lowRank: 395
+    avgRoa:
+      byCurrentPrice: 34.52002747145482
+      byAth: 66.90186069850252
+input_direct_token_stats:
+  tool: get_token_statistics
+  tool_arguments:
+    period: 720
+    token_symbol: HEU
+  raw_data_only: true
+output_direct_token_stats:
+  response: ''
+  data:
+    tokenName: Heurist
+    tokenSymbol: heu
+    tokenCategory: Low Rank Coins
+    totalCalls: 18
+    uniqueKols: 11
+    callRatio: 0.61
+    dailyChange: 1.18
+    weeklyChange: -14.95
+    monthlyChange: 112.65
+input_direct_top_gainers:
+  tool: get_top_gainers
+  tool_arguments:
+    period: 720
+    token_category: top100
+    tokens_amount: 5
+    kols_amount: 3
+  raw_data_only: true
+output_direct_top_gainers:
+  response: ''
+  data:
+  - - tokenName: Virtuals Protocol
+      tokenSymbol: virtual
+      tokenCategory: Top 100
+      kolName: '@BaseCaptainHB'
+      callPrice: 0.442171
+      callDate: '2025-04-09T13:31:37.000Z'
+      roa: 302.5591909012577
+      roaAtAth: 327.43644427156016
+    - tokenName: Virtuals Protocol
+      tokenSymbol: virtual
+      tokenCategory: Top 100
+      kolName: '@BaseCaptainHB'
+      callPrice: 0.467887
+      callDate: '2025-04-10T16:23:40.000Z'
+      roa: 280.43373720577836
+      roaAtAth: 303.9436872578208
+    - tokenName: Virtuals Protocol
+      tokenSymbol: virtual
+      tokenCategory: Top 100
+      kolName: '@BaseHubHB'
+      callPrice: 0.469112
+      callDate: '2025-04-10T14:00:03.000Z'
+      roa: 279.4403042343833
+      roaAtAth: 302.8888623612272
+  - - tokenName: Fartcoin
+      tokenSymbol: fartcoin
+      tokenCategory: Top 100
+      kolName: '@gemxbt_agent'
+      callPrice: 0.457831
+      callDate: '2025-04-05T17:16:18.000Z'
+      roa: 146.81596484292237
+      roaAtAth: 179.57914601676165
+    - tokenName: Fartcoin
+      tokenSymbol: fartcoin
+      tokenCategory: Top 100
+      kolName: '@agentcookiefun'
+      callPrice: 0.46122
+      callDate: '2025-04-07T11:46:27.000Z'
+      roa: 145.0023849789688
+      roaAtAth: 177.52482546290273
+    - tokenName: Fartcoin
+      tokenSymbol: fartcoin
+      tokenCategory: Top 100
+      kolName: '@AltCryptoGems'
+      callPrice: 0.461936
+      callDate: '2025-04-07T13:10:00.000Z'
+      roa: 144.62263170655672
+      roaAtAth: 177.0946624640643
+  - - tokenName: Bittensor
+      tokenSymbol: tao
+      tokenCategory: Top 100
+      kolName: '@RvCrypto'
+      callPrice: 170.27
+      callDate: '2025-04-07T08:11:05.000Z'
+      roa: 113.2906560169143
+      roaAtAth: 128.2140130381159
+    - tokenName: Bittensor
+      tokenSymbol: tao
+      tokenCategory: Top 100
+      kolName: '@cryptodoc_'
+      callPrice: 170.27
+      callDate: '2025-04-07T08:12:39.000Z'
+      roa: 113.2906560169143
+      roaAtAth: 128.2140130381159
+    - tokenName: Bittensor
+      tokenSymbol: tao
+      tokenCategory: Top 100
+      kolName: '@eliz883'
+      callPrice: 182.04
+      callDate: '2025-04-07T07:30:24.000Z'
+      roa: 99.50010986596354
+      roaAtAth: 113.45858053175127
+  - - tokenName: Bonk
+      tokenSymbol: bonk
+      tokenCategory: Top 100
+      kolName: '@eliz883'
+      callPrice: 9.87e-06
+      callDate: '2025-04-07T14:04:57.000Z'
+      roa: 74.87335359675785
+      roaAtAth: 117.22391084093213
+    - tokenName: Bonk
+      tokenSymbol: bonk
+      tokenCategory: Top 100
+      kolName: '@gem_detecter'
+      callPrice: 9.88e-06
+      callDate: '2025-04-09T08:12:19.000Z'
+      roa: 74.69635627530364
+      roaAtAth: 117.00404858299595
+    - tokenName: Bonk
+      tokenSymbol: bonk
+      tokenCategory: Top 100
+      kolName: '@AltcoinSherpa'
+      callPrice: 9.94e-06
+      callDate: '2025-04-09T14:44:15.000Z'
+      roa: 73.64185110663985
+      roaAtAth: 115.69416498993965
+  - - tokenName: Official Trump
+      tokenSymbol: trump
+      tokenCategory: Top 100
+      kolName: '@cryptobaddie1'
+      callPrice: 7.47
+      callDate: '2025-04-09T13:40:01.000Z'
+      roa: 50.06693440428381
+      roaAtAth: 116.7336010709505
+    - tokenName: Official Trump
+      tokenSymbol: trump
+      tokenCategory: Top 100
+      kolName: '@Krystal_Eth'
+      callPrice: 7.48
+      callDate: '2025-04-17T14:52:39.000Z'
+      roa: 49.866310160427815
+      roaAtAth: 116.44385026737969
+    - tokenName: Official Trump
+      tokenSymbol: trump
+      tokenCategory: Top 100
+      kolName: '@coinbureau'
+      callPrice: 7.51
+      callDate: '2025-04-18T06:00:01.000Z'
+      roa: 49.267643142476715
+      roaAtAth: 115.57922769640481
